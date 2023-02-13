@@ -1,0 +1,5 @@
+Lệnh xem sự thay đổi của git 
++ git status
+lệnh thêm thư mục vào bộ nhớ tạm
++ git add + tên thư mục
+các thư mục xanh là các thư mục đã được add nếu lỡ add nhầm thì có thể dùng lệnh 
